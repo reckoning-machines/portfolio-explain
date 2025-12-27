@@ -85,3 +85,14 @@ The schema is migrated and managed via **Alembic** to reflect production-grade d
 - cp .env.example .env
 - DATABASE_URL=postgresql://user:password@host:5432/pm_decision_os
 - alembic upgrade head
+
+## License
+
+Copyright © 2025 **Reckoning Machines LLC**
+
+This project is licensed under the **MIT License**.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the conditions of the MIT License.
+
+This software is provided **“as is”**, without warranty of any kind, express or implied.  
+See the `LICENSE` file for full license text.
